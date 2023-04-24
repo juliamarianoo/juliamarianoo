@@ -1,6 +1,8 @@
 ## Olá, seja bem-vindo ao meu GitHub. Sou a Julia Mariano 👋
 <br/>
+
 ### Você pode entrar em contato comigo através dessas redes ⬇️
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-mariano-519141254)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/juliamariano)
 
